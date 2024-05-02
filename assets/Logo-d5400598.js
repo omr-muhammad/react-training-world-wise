@@ -1,1 +1,0 @@
-import{j as o,L as s}from"./index-f7ea20af.js";const l="_logo_7b2ls_1",t={logo:l};function n(){return o.jsx(s,{to:"/react-training-world-wise/",children:o.jsx("img",{src:"/logo.png",alt:"WorldWise logo",className:t.logo})})}export{n as L};
